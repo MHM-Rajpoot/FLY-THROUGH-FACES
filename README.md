@@ -1,5 +1,5 @@
 
- __FLY__THROUGH__FACES__
+ __FLY THROUGH FACES__
  
 Airport Check-In System Based On Face ID
 
