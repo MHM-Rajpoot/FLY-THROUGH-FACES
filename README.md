@@ -1,7 +1,6 @@
  __Virtual Mouse__
  
-Computer Vision Mouse
-
+FLY THROUGH FACES
 
 __Introduction:__
 
